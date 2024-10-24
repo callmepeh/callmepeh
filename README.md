@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Pedro e eu sou estudante de Sistemas de Informação na Universidade Federal do Piauí - SI/-\UFPI.<br>Tenho interesses nas áreas de computação aplicada a saúde, sistemas embarcados, arquitetura de computadores e estruturas de dados;</p>
+<p align="left">Meu nome é Pedro e eu sou estudante de Sistemas de Informação na Universidade Federal do Piauí - SI-UFPI.<br>Tenho interesses nas áreas de computação aplicada a saúde, sistemas embarcados, arquitetura de computadores e estruturas de dados.</p>
 
 ###
 
@@ -31,5 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
 </div>
+![Logo Sistemas](https://faculdadedombosco.net/media/filer_public/2020_7/42f1c949_logo_sistemas-icone.png)
+
 
 ###
