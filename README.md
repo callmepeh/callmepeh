@@ -31,7 +31,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
 </div>
-![Logo Sistemas](https://faculdadedombosco.net/media/filer_public/2020_7/42f1c949_logo_sistemas-icone.png)
 
 
 ###
