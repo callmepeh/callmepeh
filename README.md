@@ -5,7 +5,7 @@
 <p align="left">Meu nome é Pedro e eu sou estudante de Sistemas de Informação na Universidade Federal do Piauí - SI-UFPI.<br>Tenho interesses nas áreas de computação aplicada a saúde, sistemas embarcados, arquitetura de computadores e estruturas de dados.</p>
 
 <div align="center">
-  <img height="200" src="https://faculdadedombosco.net/media/filer_public/2020_7/42f1c949_logo_sistemas-icone.png"  />
+  <img height="150" src="https://faculdadedombosco.net/media/filer_public/2020_7/42f1c949_logo_sistemas-icone.png"  />
 </div>
 
 ###
